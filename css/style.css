@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.img_animate{
+    overflow: hidden;
+    transition: 1s;
+}
+.img_animate{
+    transition: 1s;
+}
+.card:hover .img_animate img{
+    transform: scale(1.2);
+    transition: 1s;
+}
